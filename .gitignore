@@ -1,0 +1,27 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.tmp
+*.bak
+~$*
+
+# Carpetas de trabajo local
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Datos sensibles (si agregas después)
+*.env
+datos-personales/
+cotizaciones-reales/
+
+# Archivos de Excel temporales
+~$*.xlsx
+~$*.xls
+
+# Logs
+*.log
